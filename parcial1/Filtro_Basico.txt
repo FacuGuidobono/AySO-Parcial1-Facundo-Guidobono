@@ -1,2 +1,2 @@
-Chassis Information
+Chassis Information	2010896 kB
 	Manufacturer: Oracle Corporation
