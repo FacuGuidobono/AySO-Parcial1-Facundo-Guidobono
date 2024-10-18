@@ -1,2 +1,5 @@
 # AySO-Parcial1-Facundo-Guidobono
-Parte Practica del primer parcial de AySO
+Nombre: Facundo
+Apellido: Guidobono
+Legajo: 117309
+División: 312
