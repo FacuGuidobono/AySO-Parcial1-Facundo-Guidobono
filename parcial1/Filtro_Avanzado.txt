@@ -1,0 +1,6 @@
+IP Pública: 186.22.13.72
+
+Usuario: vagrant:x:1000:1000:,,,:/home/vagrant:/bin/bash
+
+El Hash o pass encriptada: vagrant:$y$j9T$YKDqIFD.esIbEj1zqtfhF1$2BxW2Gvo/GCjKPKWJ75Rb3jADWRLpZ7W9MOZmyB5RX2:19978:0:99999:7:::
+
